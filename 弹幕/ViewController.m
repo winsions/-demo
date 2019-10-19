@@ -71,6 +71,7 @@
     return label;
     
 }
+fdsafsdafsdafdsa
 
 - (void)danmuViewDidClick:(UIView *)danmuView at:(CGPoint)point {
     
